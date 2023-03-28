@@ -1,2 +1,6 @@
 COLORS NAME
 ===========
+RED
+YELLOW
+BLUE 
+PURPLE
